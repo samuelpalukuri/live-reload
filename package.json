@@ -1,0 +1,16 @@
+{
+  "name": "live-reload",
+  "version": "1.0.0",
+  "description": "Boiler plate code for trying out html/css/js in a livereload env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Palukuri",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
